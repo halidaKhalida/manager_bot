@@ -1,1 +1,1 @@
-token_api = 'your token bot API'
+token_api = '7226845610:AAGAfeRHqFKHSqiZKWoH_5a__JZDEMjkOow'
